@@ -32,4 +32,3 @@ Problem Solving | Data Structures | Algorithms | Full-Stack Development
 
 🔗 [Repository Link](https://github.com/vanasetti-charan/python-projects)  
 
-> You can add screenshots of the quiz below for better presentation:  
