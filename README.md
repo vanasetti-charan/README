@@ -1,94 +1,56 @@
-# Hi, I’m Charan Vanasetti 👋
-Aspiring Full-Stack Developer | Python & C Programmer | Passionate about Problem-Solving & Building Projects  
+# Hi there 👋, I'm Vanasetti Charan
 
-🌍 Location: India  
-💼 Open to: Internship / Full-Time opportunities in Python and Full-Stack Development  
-📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/vanasetti-charan/) | [GitHub](https://github.com/vanasetti-charan)  
+🚀 Python Backend Developer | Passionate about building real-world applications  
 
 ---
 
-## 🛠 Skills & Technologies
-
-**Programming Languages:**  
-Python | C | SQL | JavaScript | HTML | CSS  
-
-**Web Development / Frameworks (Learning):**  
-Django | Flask | Bootstrap | React.js  
-
-**Tools & Platforms:**  
-Git | GitHub | VS Code | Terminal / CLI  
-
-**Concepts:**  
-Problem Solving | Data Structures | Algorithms | Full-Stack Development  
+## 👨‍💻 About Me
+- 💻 Python Developer with a strong focus on backend development  
+- 🔍 Built a **Smart Resume Screening System** to automate hiring process  
+- 📚 Continuously learning new technologies and improving problem-solving skills  
+- 🎯 Goal: To become a skilled Software Engineer and build impactful solutions  
 
 ---
 
-## 📂 Projects
+## 🛠️ Tech Stack
+- 💡 Languages: Python  
+- ⚙️ Backend: Python, File Handling  
+- 📄 Data Processing: PDF & DOCX Parsing  
+- 🌐 Frontend Basics: HTML, CSS, Bootstrap  
+- 🧰 Tools: Git, GitHub, VS Code  
 
+---
 
-🧠 Automated Resume Screening System (Python)
+## 🚀 Projects
 
-A Python-based ATS-style resume screening tool that automatically analyzes PDF and DOCX resumes, matches them with job description skills, and shortlists candidates based on a calculated match score.
+### 🔍 Smart Resume Screening System
+- Extracts data from PDF & DOCX resumes  
+- Matches skills based on job roles  
+- Calculates resume score (%)  
+- Shortlists candidates automatically  
+- Exports results to Excel  
 
-[🔗 GitHub Repository:](https://github.com/vanasetti-charan/resume-screener-python)
+👉 *Tech Used:* Python, PyPDF2, python-docx, Data Processing  
 
-🔹 Key Highlights
+---
 
-Processes multiple resumes automatically from a folder
+## 📈 GitHub Stats
+![Charan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
-Supports PDF & DOCX formats
+---
 
-Performs keyword-based skill matching
+## 🔥 Top Skills
+- Python Backend Development  
+- Automation  
+- Problem Solving  
+- Clean Code  
 
-Calculates resume score (%)
+---
 
-Displays Shortlisted / Rejected status
+## 📫 Connect With Me
+- 💼 LinkedIn: [https://www.linkedin.com/in/vanasetti-charan/](https://www.linkedin.com/in/vanasetti-charan/)
+- 🌐 Portfolio: [https://your-portfolio-link  ](https://vanasetti-charan.github.io/charan-portfolio/)
 
-Optimized for handling 50+ resumes efficiently
+---
 
-🔹 Tech Stack
-
-Python
-
-PyPDF2
-
-python-docx
-
-OS module
-
-🔹 How It Works
-
-Reads resumes from a specified folder
-
-Extracts text from PDF / DOCX files
-
-Matches resume content with predefined job skills
-
-Calculates match percentage
-
-Outputs screening results in the console
-
-🔹 Folder Structure
-python-resume-screening/
-├── resume_screening.py
-├── Resumes-folder/
-│   └── sample_resume.pdf
-
-🔹 Use Case
-
-Basic ATS (Applicant Tracking System) simulation
-
-Python automation & file handling practice
-
-Portfolio project for Python Developer / Software Engineer roles
-
-
-### **Python Quiz**
-- Interactive Python CLI quiz program  
-- Multiple-choice questions, scoring system, and user-friendly input  
-- Demonstrates Python fundamentals, loops, conditionals, and functions  
-
-🔗 [Repository Link](https://github.com/vanasetti-charan/python-projects)  
-
-
-
+⭐ *“Always learning, always building.”*
